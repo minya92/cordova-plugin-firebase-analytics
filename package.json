@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-firebase-analytics",
-  "version": "1.0.1",
+  "name": "f4m-plugin-firebase-analytics",
+  "version": "1.0.7",
   "description": "Cordova plugin for Firebase Analytics",
   "cordova": {
-    "id": "cordova-plugin-firebase-analytics",
+    "id": "f4m-plugin-firebase-analytics",
     "platforms": [
       "ios",
       "android"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chemerisuk/cordova-plugin-firebase-analytics.git"
+    "url": "git+https://github.com/minya92/cordova-plugin-firebase-analytics.git"
   },
   "author": "Maksim Chemerisuk <chemerisuk@gmail.com> (https://github.com/chemerisuk)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chemerisuk/cordova-plugin-firebase-analytics/issues"
+    "url": "https://github.com/minya92/cordova-plugin-firebase-analytics/issues"
   },
-  "homepage": "https://github.com/chemerisuk/cordova-plugin-firebase-analytics#readme",
+  "homepage": "https://github.com/minya92/cordova-plugin-firebase-analytics#readme",
   "keywords": [
     "cordova",
     "firebase",
