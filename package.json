@@ -1,6 +1,6 @@
 {
   "name": "f4m-plugin-firebase-analytics",
-  "version": "1.0.7",
+  "version": "1.0.13",
   "description": "Cordova plugin for Firebase Analytics",
   "cordova": {
     "id": "f4m-plugin-firebase-analytics",
